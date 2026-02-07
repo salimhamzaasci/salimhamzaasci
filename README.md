@@ -31,7 +31,7 @@ Result-oriented Electronics and Communication Engineering student at **Kocaeli U
 ---
 
 ### 🔗 Professional Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/salimhamzaasci)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salimhamzaasci/)
 [![Portfolio](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salimhamzaasci@gmail.com)
 
 ---
