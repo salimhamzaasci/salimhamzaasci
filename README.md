@@ -8,6 +8,7 @@ Result-oriented Electronics and Communication Engineering student at **Kocaeli U
 ### 🛠 Technical Proficiency
 
 * **Embedded Systems:** Advanced firmware development using **STM32 (Cortex-M)**, C, and STM32CubeIDE.
+* **RF & Telecommunications Systems** 
 * **Hardware Design:** Professional multi-layer PCB design and schematic capture using **Altium Designer**.
 * **Signal Processing:** Parameter extraction and signal analysis using **MATLAB** and **Python**.
 * **Simulations:** Power and signal integrity analysis using **LTspice** and **Simulink**.
